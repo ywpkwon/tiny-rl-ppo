@@ -2,7 +2,9 @@
 
 ## Install 
 
-`pip install "transformers>=4.44" "trl>=0.9.6" datasets accelerate bitsandbytes peft einops`
+```bash
+pip install "transformers>=4.44" "trl>=0.9.6" datasets accelerate bitsandbytes peft einops
+```
 
 ## Run
 
